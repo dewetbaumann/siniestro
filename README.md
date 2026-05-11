@@ -100,9 +100,9 @@
 | 6GUV-040501-5601 | Panel izquierdo | $316.173,03 |
 | 6GUV-040616-5600 | Slider | $113.316,21 |
 | 6GUV-040204-5601-0VE00 | Protector de óptica | $74.174,72 |
+| 0HTV-014001-7000 | Tapa de motor izquierdo | $241.300,14 |
 | N/A | Protector de tanque | $74.174,72 |
 | N/A | Cubre manija | $63.425,96 |
-| 0HTV-014001-7000 | Tapa de motor izquierdo | $241.300,14 |
 | N/A | Mano de obra | $0,00 |
 |  | **TOTAL** | **$2.292.020,10** |
 
