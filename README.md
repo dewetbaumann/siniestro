@@ -83,6 +83,11 @@
 
 ---
 
+## Silicona Loctite SI 5900
+- **Opción 1** ($ 122.896): [MercadoLibre](https://www.mercadolibre.com.ar/silicona-loctite-si-5900-blanco-no-corrosivo-resistente-aceites-300-ml/p/MLA38290984#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=1&type=product&tracking_id=8f159455-4770-487b-ac6c-0c1c5b04b582&wid=MLA2345320192&sid=search)
+
+---
+
 ## Mano de obra
 - $ 0
 
@@ -103,8 +108,9 @@
 | 0HTV-014001-7000 | Tapa de motor izquierdo | $241.300,14 |
 | N/A | Protector de tanque | $74.174,72 |
 | N/A | Cubre manija | $63.425,96 |
+| N/A | Silicona Loctite SI 5900 | $122.896 |
 | N/A | Mano de obra | $0,00 |
-|  | **TOTAL** | **$2.292.020,10** |
+|  | **TOTAL** | **$2.414.916,10** |
 
 ---
 
