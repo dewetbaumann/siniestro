@@ -90,21 +90,21 @@
 
 ## Resumen de Precios
 
-| Pieza | Part Number | Precio |
+| Part Number | Pieza | Precio |
 |---|---|---:|
-| Espejos Retrovisores | 6GUV-200200-5600 | $288.621,24 |
-| Aleron derecho | 6GUV-040612-5600 | $141.145,84 |
-| Embellecedor bajo tanque derecho | 6GUV-040602-5601 | $492.255,52 |
-| Soporte Embellecedor bajo tanque derecho | 6GUV-040504-5600 | $171.259,69 |
-| Panel derecho | 6GUV-040502-5600 | $316.173,03 |
-| Panel izquierdo | 6GUV-040501-5601 | $316.173,03 |
-| Slider | 6GUV-040616-5600 | $113.316,21 |
-| Protector de óptica | 6GUV-040204-5601-0VE00 | $74.174,72 |
-| Protector de tanque | N/A | $74.174,72 |
-| Cubre manija | N/A | $63.425,96 |
-| Tapa de motor izquierdo | 0HTV-014001-7000 | $241.300,14 |
-| Mano de obra | N/A | $0,00 |
-| **TOTAL** |  | **$2.292.020,10** |
+| 6GUV-200200-5600 | Espejos Retrovisores | $288.621,24 |
+| 6GUV-040612-5600 | Aleron derecho | $141.145,84 |
+| 6GUV-040602-5601 | Embellecedor bajo tanque derecho | $492.255,52 |
+| 6GUV-040504-5600 | Soporte Embellecedor bajo tanque derecho | $171.259,69 |
+| 6GUV-040502-5600 | Panel derecho | $316.173,03 |
+| 6GUV-040501-5601 | Panel izquierdo | $316.173,03 |
+| 6GUV-040616-5600 | Slider | $113.316,21 |
+| 6GUV-040204-5601-0VE00 | Protector de óptica | $74.174,72 |
+| N/A | Protector de tanque | $74.174,72 |
+| N/A | Cubre manija | $63.425,96 |
+| 0HTV-014001-7000 | Tapa de motor izquierdo | $241.300,14 |
+| N/A | Mano de obra | $0,00 |
+|  | **TOTAL** | **$2.292.020,10** |
 
 ---
 
