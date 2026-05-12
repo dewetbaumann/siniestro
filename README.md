@@ -6,7 +6,13 @@
 
 El presente documento tiene por finalidad detallar daños observados, piezas afectadas y costos reales de reposición OEM correspondientes al vehículo involucrado en el siniestro referido.
 
-Debido a la inexistencia de disponibilidad y cotización oficial de repuestos en plaza para el modelo CFMOTO 675SR-R, los valores acompañados corresponden a costos reales de reposición internacional obtenidos de proveedores especializados.
+Debido a la inexistencia de disponibilidad (adjunto chats en la carpeta de "[Presupuestos](https://github.com/dewetbaumann/siniestro/tree/main/Presupuestos)") y cotización oficial de repuestos en plaza para el modelo CFMOTO 675SR-R, los valores acompañados corresponden a costos reales de reposición internacional obtenidos de proveedores especializados.
+
+<img src="Presupuestos\Presupuestos (1).PNG" alt="Protector de óptica" width="300" height="700" />
+<img src="Presupuestos\Presupuestos (2).PNG" alt="Protector de óptica" width="300" height="700" />
+<img src="Presupuestos\Presupuestos (3).PNG" alt="Protector de óptica" width="300" height="700" />
+<img src="Presupuestos\Presupuestos (4).PNG" alt="Protector de óptica" width="300" height="700" />
+<img src="Presupuestos\Presupuestos (5).PNG" alt="Protector de óptica" width="300" height="700" />
 
 ## Disponibilidad de repuestos en Argentina
 
