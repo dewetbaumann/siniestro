@@ -6,7 +6,7 @@
 
 El presente documento tiene por finalidad detallar daños observados, piezas afectadas y costos reales de reposición OEM correspondientes al vehículo involucrado en el siniestro referido.
 
-Debido a la inexistencia de disponibilidad (adjunto chats en la carpeta de "[Presupuestos](https://github.com/dewetbaumann/siniestro/tree/main/Presupuestos)") y cotización oficial de repuestos en plaza para el modelo CFMOTO 675SR-R, los valores acompañados corresponden a costos reales de reposición internacional obtenidos de proveedores especializados.
+Debido a la inexistencia de disponibilidad en Argentina (adjunto chats en la carpeta de "[Presupuestos](https://github.com/dewetbaumann/siniestro/tree/main/Presupuestos)") y cotización oficial de repuestos en plaza para el modelo CFMOTO 675SR-R, los valores acompañados corresponden a costos reales de reposición internacional obtenidos de proveedores especializados.
 
 <img src="Presupuestos\Presupuestos (1).PNG" alt="Protector de óptica" width="300" height="700" />
 <img src="Presupuestos\Presupuestos (2).PNG" alt="Protector de óptica" width="300" height="700" />
@@ -82,7 +82,7 @@ Se realizaron consultas en concesionarios oficiales de la marca CFMOTO en Argent
 - Nombre: WING RH BRACKET (DOLPHIN SUMMER BLUE)
 - **Opción 1** ($113.316,21): [Proveedor internacional OEM](https://es.aliexpress.com/item/1005009508373901.html)
 
-<img src="Fotos del choque/Daños (14).JPEG" alt="Protector de óptica" width="300" height="300" />
+<img src="Fotos del choque/Daños (10).JPEG" alt="Protector de óptica" width="300" height="300" />
 
 ---
 
@@ -130,6 +130,10 @@ Se realizaron consultas en concesionarios oficiales de la marca CFMOTO en Argent
 
 - **Silicona Loctite SI 5900**: [MercadoLibre](https://www.mercadolibre.com.ar/silicona-loctite-si-5900-blanco-no-corrosivo-resistente-aceites-300-ml/p/MLA38290984#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=1&type=product&tracking_id=8f159455-4770-487b-ac6c-0c1c5b04b582&wid=MLA2345320192&sid=search)  ($122.896)
 
+- **Casco MAC FF 069**: [MercadoLibre](https://articulo.mercadolibre.com.ar/MLA-2142771056-casco-moto-integral-mac-cirkus-ff069-doble-visor-rpm-_JM?searchVariation=188678717509#polycard_client=search-desktop&searchVariation=188678717509&float_highlight=last_unit&be_origin=backend&search_layout=grid&position=43&type=item&tracking_id=122ad265-a9a7-4e3d-9372-5c96224c5f01) ($196.210)
+
+- **Casco LS2 FF805**: [MercadoLibre](https://articulo.mercadolibre.com.ar/MLA-1449119394-casco-ls2-ff-805-thunder-100-carbono-sputnik-moto-delta-_JM?searchVariation=178204043824#polycard_client=search-desktop&be_origin=backend&searchVariation=178204043824&search_layout=grid&position=20&type=item&tracking_id=2a2232fc-3eef-4555-820e-c3e13464a097) ($1.489.012)
+
 - **Mano de obra estimada de desarme, reemplazo y armado:**: $0
 
 ---
@@ -150,11 +154,13 @@ Se realizaron consultas en concesionarios oficiales de la marca CFMOTO en Argent
 | N/A |  | Protector de tanque | $74.174,72 |
 | N/A |  | Cubre manija | $45.563,52 |
 | N/A |  | Silicona Loctite SI 5900 | $122.896 |
+| N/A |  | Casco MAC FF 069 | $196.210 |
+| N/A |  | Casco LS2 FF805 | $1.489.012 |
 | N/A |  | Adhesivo Loctite 277 | $51.552 |
 | N/A |  | Adhesivo Loctite 243 | $68.580 |
 | N/A |  | Set de clips | $30.033,07 |
 | N/A |  | Mano de obra | $0,00 |
-|  |  | **TOTAL** | **$2.565.081,17** |
+|  |  | **TOTAL** | **$4.250.303,17** |
 
 
 
